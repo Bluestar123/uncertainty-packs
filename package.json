@@ -1,0 +1,34 @@
+{
+    "name": "uncertainty-packs",
+    "displayName": "uncertainty-packs",
+    "description": "测不准vscode常用包",
+    "version": "0.0.1",
+    "publisher": "teg-uncertainty-main",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "ezshine.rainbow-fart-waifu",
+        "russell.any-rule",
+        "formulahendry.auto-close-tag",
+        "steoates.autoimport",
+        "formulahendry.auto-rename-tag",
+        "ms-ceintl.vscode-language-pack-zh-hans",
+        "dbaeumer.vscode-eslint",
+        "eamodio.gitlens",
+        "vincaslt.highlight-matching-tagvincaslt",
+        "oderwat.indent-rainbow",
+        "pkief.material-icon-theme",
+        "qiu8310.minapp-vscode",
+        "burkeholland.simple-react-snippets",
+        "shardulm94.trailing-spaces",
+        "octref.vetur",
+        "chandzhang.wechat-snippet"
+    ],
+    "repository": {
+        "url": ""
+    }
+}
