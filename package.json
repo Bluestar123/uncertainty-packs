@@ -26,9 +26,10 @@
         "burkeholland.simple-react-snippets",
         "shardulm94.trailing-spaces",
         "octref.vetur",
-        "chandzhang.wechat-snippet"
+        "chandzhang.wechat-snippet",
+        "formulahendry.code-runner"
     ],
     "repository": {
-        "url": ""
+        "url": "https://github.com/Bluestar123/uncertainty-packs"
     }
 }
