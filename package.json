@@ -2,10 +2,10 @@
     "name": "uncertainty-packs",
     "displayName": "uncertainty-packs",
     "description": "测不准vscode常用包",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "teg-uncertainty-main",
     "engines": {
-        "vscode": "^1.46.0"
+        "vscode": "^1.57.1"
     },
     "categories": [
         "Extension Packs"
